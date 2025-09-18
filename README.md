@@ -15,7 +15,7 @@ The underlying dataset is proprietary and cannot be shared. To enable experiment
 
 
 ## implicitquotas
-**implicitquotas** is a Python package for analyzing *implicit quotas* in organizational data — for example, the number of women on boards relative to what would be expected given the available candidate pool.  
+**implicitquotas** is a Python package for analyzing *implicit quotas* in organizational data — for example, the number of units of observations on a given subset relative to what would be expected given the available candidate pool in the superset.  
 
 It provides a workflow to:
 
@@ -25,5 +25,6 @@ It provides a workflow to:
 4. **Taylored analyses** conditional on many groups, such as years, or countries.  
 5. **Adjust p-values** for multiple comparisons.  
 6. **Visualize results** as interpretable heatmaps.
+
 
 ---
