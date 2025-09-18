@@ -21,10 +21,11 @@ It provides a workflow to:
 
 1. **Build null probabilities (`p_s`)** from candidate pools or external benchmarks.  
 2. **Perform statistical tests** of observed counts against binomial expectations.  
-3. **Handle panel data** with robust variance estimation.  
+3. **Handle panel data** with correlations across periods included in the test statistic.  
 4. **Taylored analyses** conditional on many groups, such as years, or countries.  
 5. **Adjust p-values** for multiple comparisons.  
 6. **Visualize results** as interpretable heatmaps.
 
 
 ---
+
